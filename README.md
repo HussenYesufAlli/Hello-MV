@@ -23,8 +23,8 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [:memo: License](#license)
 
-# :book: [Hello-Microverse] <a name="about-project"></a>
-**[Hello-Microverse]** is the first microverse project which is set up a "Hello microverse-repeat" repository and experience correct GitHub flow, main and feature branch, and pull request terminology.
+# :book: [Hello-MV] <a name="about-project"></a>
+**[Hello-MV]** is the first microverse project which is set up a "Hello microverse-repeat" repository and experience correct GitHub flow, main and feature branch, and pull request terminology.
 
 ## :hammer_and_wrench: Built With <a name="built-with"></a>
 -HTML
